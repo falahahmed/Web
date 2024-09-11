@@ -1,0 +1,62 @@
+.body{
+	background-color: rgba(49, 45, 45, 0.733);
+	text-align: center;
+	padding: 2%;
+}
+
+.body .head{
+	font-size: 500%;
+	font-weight: bold;
+	text-decoration-style: dotted;
+	color: aqua;
+	align-self: center;
+	pointer-events: none;
+}
+
+.intro{
+	padding-top: 3%;
+	padding-bottom: 3%;
+	font-size: 28px;
+	text-align: justify;
+}
+
+.intro a{
+	color: aquamarine;
+	text-decoration-style: dashed;
+	text-decoration-color: aqua;
+}
+
+.divs{
+	text-align: left;
+	font-weight: bold;
+	font-size: 250%;
+	color: aquamarine
+	/* color: rgb(37, 174, 216); */
+}
+
+.ourTeam table {
+	width: 100%;
+	text-align: left;
+}
+
+.ourTeam table .pics{
+	width: 25%;
+}
+
+.ourTeam table .content{
+	padding: 2%;
+	vertical-align: top;
+}
+
+.names{
+	font-weight: bold;
+	font-size: 200%;
+}
+
+.team{
+	width: 100%;
+}
+
+.details{
+	font-size: 130%;
+}
